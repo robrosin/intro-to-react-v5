@@ -10,17 +10,17 @@ const App = () => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, "Adopt Me!"),
     React.createElement(Pet, {
-      name: "Luna",
+      name: "Winnie",
       animal: "Dog",
-      breed: "Havanese",
+      breed: "Great Dane",
     }),
     React.createElement(Pet, {
-      name: "Pepper",
+      name: "Scoot",
       animal: "Bird",
       breed: "Cockatiel",
     }),
     React.createElement(Pet, {
-      name: "Doink",
+      name: "Onher",
       animal: "Cat",
       breed: "Mix",
     }),
